@@ -1,6 +1,6 @@
 # College Tuition Prediction
 
-This project aims to predict college tuition fees based on various features related to colleges in the United States. The dataset contains information about multiple colleges, including academic factors, demographics, and financial attributes. The project includes several data preprocessing steps, exploratory data analysis, and a comparison of different machine learning models to identify the best approach for predicting tuition fees. After evaluating different models, **XGBoost** emerged as the best model, providing the most accurate predictions. This model also outperformed the models of 80+ students in the class, achieving the most accurate predictions.
+This project aims to predict college tuition fees based on various features related to colleges in the United States. The dataset contains information about multiple colleges, including academic factors, demographics, and financial attributes. The project includes several data preprocessing steps, exploratory data analysis, and a comparison of different machine learning models to identify the best approach for predicting tuition fees. After evaluating different models, **XGBoost** emerged as the best model, providing the most accurate predictions. This model also outperformed the models of 50+ students in the class, achieving the most accurate predictions.
 
 ---
 
@@ -60,5 +60,3 @@ To generate predictions for your own dataset or perform further model evaluation
 3. Train the model using XGBoost or other models if desired.
 4. Evaluate the model and visualize the results.
 5. Generate predictions for the test data and save them in a CSV file.
-
-
